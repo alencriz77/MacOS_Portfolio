@@ -57,7 +57,9 @@ const Dock = () => {
   }
  }, []);
 
-    const toggleApp = (app) =>{};
+    const toggleApp = (app) =>{
+        
+    };
   return (
     <section id='dock'>
         <div ref={dockRef} className="dock-container">
